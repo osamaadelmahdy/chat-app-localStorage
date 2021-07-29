@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+.chat {
+  width: 200px;
+  height: 200px;
+  background-color: aquamarine;
+  overflow: auto;
+}
+
+.msg {
+  background-color: rgb(11, 44, 26);
+  color: white;
+  width: 75%;
+}
+
+.fromMe {
+  margin: 15 0 15 auto;
+}
